@@ -1,0 +1,15 @@
+{
+  "name": "com.softliu.nativesupport",
+  "displayName":  "NativeSupport",
+  "description": "a test package manager",
+  "keywords": [
+	"unity",
+	"NativeBinding"
+  ],
+  "category": "MOBA",
+  "dependencies": {
+  },
+  
+	"unity": "2019.3", 
+	"version": "0.0.1"
+}
